@@ -7,6 +7,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "EFDbFirstCodeSecond.Databas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDbFirstCodeSecond.DataAccess", "EFDbFirstCodeSecond.DataAccess\EFDbFirstCodeSecond.DataAccess.csproj", "{E9BC5F7F-52FC-44E9-99A1-2021772D6A2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDbFirstCodeSecond.Demo", "EFDbFirstCodeSecond.Demo\EFDbFirstCodeSecond.Demo.csproj", "{855FAEE9-0687-4898-9E0D-DCFAF522A2AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{E9BC5F7F-52FC-44E9-99A1-2021772D6A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9BC5F7F-52FC-44E9-99A1-2021772D6A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9BC5F7F-52FC-44E9-99A1-2021772D6A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855FAEE9-0687-4898-9E0D-DCFAF522A2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855FAEE9-0687-4898-9E0D-DCFAF522A2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855FAEE9-0687-4898-9E0D-DCFAF522A2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855FAEE9-0687-4898-9E0D-DCFAF522A2AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
